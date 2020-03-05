@@ -36,3 +36,17 @@ footer {
     margin-top: 60px;
     padding: 5em;
 }
+.img-responsive{
+    object-fit: cover;
+    width: 100;
+}    
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 50%;
+}
